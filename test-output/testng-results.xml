@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T11:38:18 IST" name="Default suite" finished-at="2023-02-28T11:38:18 IST" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T11:38:18 IST" name="Default test" finished-at="2023-02-28T11:38:18 IST" duration-ms="17">
+      <class name="practice.testng.com.TesNGPractice.Prio">
+        <test-method is-config="true" signature="tc001()[pri:0, instance:practice.testng.com.TesNGPractice.Prio@548d708a]" started-at="2023-02-28T11:38:18 IST" name="tc001" finished-at="2023-02-28T11:38:18 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method is-config="true" signature="TC002()[pri:0, instance:practice.testng.com.TesNGPractice.Prio@548d708a]" started-at="2023-02-28T11:38:18 IST" name="TC002" finished-at="2023-02-28T11:38:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method is-config="true" signature="TC008()[pri:0, instance:practice.testng.com.TesNGPractice.Prio@548d708a]" started-at="2023-02-28T11:38:18 IST" name="TC008" finished-at="2023-02-28T11:38:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008 -->
+        <test-method is-config="true" signature="TC009()[pri:0, instance:practice.testng.com.TesNGPractice.Prio@548d708a]" started-at="2023-02-28T11:38:18 IST" name="TC009" finished-at="2023-02-28T11:38:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC009 -->
+      </class> <!-- practice.testng.com.TesNGPractice.Prio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
